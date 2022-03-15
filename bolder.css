@@ -1,0 +1,37 @@
+
+.box1{
+  background-color: silver;
+  height: 50%;
+  width: 50%;
+  float:left;
+}
+.box2{
+  background-color: green;
+  height: 50%;
+  width: 50%;
+  float:left;
+}
+.box3{
+  background-color: blue;
+  height: 50%;
+  width: 50%;
+  float:left;
+}
+.box4{
+  background-color: brown;
+  height: 50%;
+  width: 50%;
+  float:left;
+}
+.box5{
+  background-color: orange;
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+.box6{
+  background-color: darkblue;
+  height: 50%;
+  width:50%;
+  float: left;
+}
